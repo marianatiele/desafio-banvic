@@ -26,6 +26,27 @@ Neste desafio, o objetivo é gerar um **relatório de indicadores de performance
    * Construção de dashboards no Power BI.
    * Análise dos indicadores para fornecer **insights e recomendações de ação**.
 
+4. Power BI
+   * Ranking de Agência
+     
+     <img width="854" height="478" alt="image" src="https://github.com/user-attachments/assets/56c680ac-5209-4ed4-bf53-6980fc215cae" />
+     
+   * Cotação do Dólar e Transações
+     
+     <img width="868" height="487" alt="image" src="https://github.com/user-attachments/assets/0903ac0b-8cc6-48a9-b8c7-6d216ea6fc9c" />
+     
+   * Agência Digital - Cod 7
+
+     <img width="850" height="486" alt="image" src="https://github.com/user-attachments/assets/dd440d25-3759-40ef-b4a2-c5fadbb92fba" />
+
+   * Todas as Agências
+
+     <img width="873" height="486" alt="image" src="https://github.com/user-attachments/assets/109e09a3-f995-4b13-a239-62f9f814500c" />
+
+
+
+
+
 ## Como Executar
 
 1. Configurar a conexão com o banco PostgreSQL no Databricks.
